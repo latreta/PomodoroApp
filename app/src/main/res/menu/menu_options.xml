@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+            <group android:checkableBehavior="none">
+                <item
+                    android:id="@+id/add_Task"
+                    android:title="Adicionar"
+                    android:showAsAction="never"
+                    />
+                <item
+                    android:id="@+id/new_category"
+                    android:title="Nova Categoria"
+                    android:showAsAction="never"
+                    />
+
+                <item
+                    android:id="@+id/play_task"
+                    android:title="Gerenciador"
+                    android:showAsAction="never"
+                    />
+            </group>
+
+</menu>
