@@ -1,0 +1,2 @@
+# pomodoroApp
+Primeiro aplicativo solo
