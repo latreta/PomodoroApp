@@ -1,7 +1,0 @@
-<resources>
-    <string name="app_name">PomodoroApp</string>
-    <string name="TextViewNome">Nome</string>
-    <string name="TextViewCategoria">Categoria</string>
-    <string name="TextViewTempo">Tempo</string>
-    <string name="btnSave">Salvar</string>
-</resources>
